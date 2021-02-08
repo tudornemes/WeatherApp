@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css?family=Righteous&display=swap');
+
+body {
+  display: flex;
+  justify-content: center;
+}
+
+.container {
+  background-color: white;
+}
+
+.background {
+  width: 100vw;
+  height: 65px;
+  background-color:rgb(25, 92, 216);
+}
+
+.title {
+  font-size: 40px;
+  margin-left: 500px;
+  font-family: "righteous" ;
+  color: white;
+  margin-bottom: 100px;
+}
+
+.input {
+  width: 800px;
+  height: 40px;
+  margin-top: 10px;
+  margin-left: 20px;
+  font-size: 25px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin-bottom: 20px;
+}
+
+.city {
+  font-size: 30px;
+  margin-top: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: 10px;
+  color: black;
+}
